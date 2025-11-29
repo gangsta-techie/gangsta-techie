@@ -1,5 +1,5 @@
 # 💫 About Me:
-<table> <tr> <td width="60%"> I love to build cool stuff<br><br> 🧠 Solving problems with clean and intentional code<br> ⚙️ Building tools that make life easier<br> 👯 Looking to collaborate on Full Stack, Machine Learning and Cloud<br> ⚡ Fun fact - I'm batman<br> </td> <td width="40%"> <img src="./batman.png" alt="Batman" width="200"/> </td> </tr> </table>
+I love to build cool stuff<br><br>🧠 Solving problems with clean and intentional code<br>⚙️ Building tools that make life easier<br>👯 Looking to collaborate on Full Stack, Machine Learning and Cloud<br>⚡ Fun fact - I'm batman<br>
 
 
 ## 🌐 Socials:
