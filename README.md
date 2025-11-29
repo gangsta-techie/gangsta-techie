@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/d18b2af1-7d7d-4f28-a361-f455c2124349" align="center" width="1000" height="300" />
+<img src="https://github.com/user-attachments/assets/d18b2af1-7d7d-4f28-a361-f455c2124349" align="center" width="1000" height="250" />
 <!--img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"-->
 </div><h1 align="center">I am Krishna Sharma</h1>
 <h3 align="center">Either a null stack developer or a fool stack developer</h3>
