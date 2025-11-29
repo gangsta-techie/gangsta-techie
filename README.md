@@ -9,7 +9,7 @@
 
 <img align="right" width="300" src="https://github.com/user-attachments/assets/83e05934-6e0a-41a6-988c-6eda124a65c3">
 
-I love to build cool stuff<br><br>🧠 Solving problems with clean and intentional code<br>⚙️ Building tools that make life easier<br>👯 Looking to collaborate on Full Stack, Machine Learning and Cloud<br>⚡ Fun fact - I'm batman<br>
+I love to build cool stuff<br><br>🧠 Solving problems with clean and intentional code<br>⚙️ Building tools that make life easier<br>👯 Looking to collaborate on Full Stack, Machine Learning and Cloud Computing<br>⚡ Fun fact - I'm batman🫢<br>
 <br><br>
 
 
